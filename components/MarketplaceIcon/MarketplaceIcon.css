@@ -1,0 +1,24 @@
+.marketplace-icon {
+  align-items: center;
+  background-color: #6840c6;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 28px;
+  justify-content: center;
+  padding: 8px;
+  width: 28px;
+}
+
+.place-2 {
+  color: var(--white);
+  font-family: var(--font-family-font_awesome_6_pro-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+

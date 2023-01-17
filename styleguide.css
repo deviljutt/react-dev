@@ -1,0 +1,95 @@
+:root { 
+  --alto: #dadbdc;
+  --alto-2: #d9d9d9;
+  --black: #000000;
+  --gallery: #eaecf0;
+  --jade: #12b669;
+  --midnight-moss: #060606;
+  --mirage: #111827;
+  --oxford-blue: #344054;
+  --pale-sky: #6b7280;
+  --santas-gray: #9ca3af;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 14px;
+  --font-size-s: 12px;
+  --font-size-xl: 32px;
+ 
+  --font-family-font_awesome_6_pro-regular: "Font Awesome 6 Pro-Regular", Helvetica;
+  --font-family-font_awesome_6_pro-solid: "Font Awesome 6 Pro-Solid", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.inter-semi-bold-oxford-blue-14px {
+  color: var(--oxford-blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-normal-santas-gray-14px {
+  color: var(--santas-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-semi-bold-mirage-20px {
+  color: var(--mirage);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-semi-bold-mirage-12px {
+  color: var(--mirage);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-normal-pale-sky-14px {
+  color: var(--pale-sky);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-pale-sky-12px {
+  color: var(--pale-sky);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fontawesome6pro-solid-normal-mirage-14px {
+  color: var(--mirage);
+  font-family: var(--font-family-font_awesome_6_pro-solid);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-mirage-12px {
+  color: var(--mirage);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-semi-bold-mirage-14px {
+  color: var(--mirage);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}

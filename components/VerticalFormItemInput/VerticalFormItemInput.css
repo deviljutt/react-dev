@@ -1,0 +1,54 @@
+.vertical-form-item-input {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.label-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 4px;
+  overflow: hidden;
+  padding: 0px 0px 8px;
+}
+
+.title-1 {
+  color: #000000d9;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.info-circle {
+  height: 14px;
+  min-width: 14px;
+}
+
+.message {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 1px 0px;
+}
+
+.message-1 {
+  color: #00000073;
+  flex: 1;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+

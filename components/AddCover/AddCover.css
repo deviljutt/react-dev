@@ -1,0 +1,32 @@
+.add-cover {
+  align-items: flex-start;
+  border: 1px dashed;
+  border-color: var(--alto-2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 246px;
+  padding: 81px 76px;
+  width: 254px;
+}
+
+.vector {
+  align-self: center;
+  height: 40px;
+  margin-right: 2.0px;
+  width: 40px;
+}
+
+.add-cover-1 {
+  color: var(--mirage);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: -0.80px;
+  line-height: normal;
+  min-height: 30px;
+  min-width: 101px;
+  text-align: center;
+}
+

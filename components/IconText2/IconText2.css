@@ -1,0 +1,16 @@
+.icon-text-1 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.frame-4 {
+  height: 16px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 14px;
+}
+
